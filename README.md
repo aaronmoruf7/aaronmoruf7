@@ -8,7 +8,7 @@ I've been coding for 3+ years and found a passion for building applications that
 
 * 🌍  I'm based in Cambridge, MA
 * ✉️  You can contact me at [aaronmoruf@college.harvard.edu](mailto:aaronmoruf@college.harvard.edu)
-* 🧠  I'm learning Typescript, React, and AI apis
+* 🧠  I'm learning ETL and LLM workflows
 * 🤝  I'm open to collaborating on any startups or passion projects
 
 ### Skills
